@@ -30,33 +30,4 @@ ExportedObj/
 sysinfo.txt
 
 # Builds
-*.apk
 *.unitypackage
-
-Assets/Editor/Doxygen/Resources/LightTheme/tabs.css
-Assets/Editor/Doxygen/Resources/LightTheme/img_downArrow.png
-Assets/Editor/Doxygen/Resources/LightTheme/doxygen.css
-Assets/Editor/Doxygen/Resources/LightTheme/background_navigation.png
-Assets/Editor/Doxygen/Resources/DarkTheme/tabs.css
-Assets/Editor/Doxygen/Resources/DarkTheme/img_downArrow.png
-Assets/Editor/Doxygen/Resources/DarkTheme/doxygen.css
-Assets/Editor/Doxygen/Resources/BaseDoxyfile.txt
-Assets/Editor/Doxygen/ReadMe.txt
-Assets/Editor/Doxygen/DoxygenWindow.cs
-Assets/Editor/Doxygen/Resources.meta
-Assets/Editor/Doxygen/ReadMe.txt.meta
-Assets/Editor/Doxygen/DoxygenWindow.cs.meta
-Assets/Editor/Doxygen.meta
-Assets/Editor/Doxygen/Resources/LightTheme/tabs.css.meta
-Assets/Editor/Doxygen/Resources/LightTheme/img_downArrow.png.meta
-Assets/Editor/Doxygen/Resources/LightTheme/doxygen.css.meta
-Assets/Editor/Doxygen/Resources/LightTheme/background_navigation.png.meta
-Assets/Editor/Doxygen/Resources/LightTheme.meta
-Assets/Editor/Doxygen/Resources/DarkTheme/tabs.css.meta
-Assets/Editor/Doxygen/Resources/DarkTheme/img_downArrow.png.meta
-Assets/Editor/Doxygen/Resources/DarkTheme/doxygen.css.meta
-Assets/Editor/Doxygen/Resources/DarkTheme.meta
-Assets/Editor/Doxygen/Resources/BaseDoxyfile.txt.meta
-ProjectSettings/ProjectSettings.asset
-Assets/Plugins/FullInspector2_Generated/fiPersistentEditorStorage.prefab
-.collabignore
